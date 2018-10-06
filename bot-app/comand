@@ -1,0 +1,1 @@
+python -m rasa_nlu.train --config config_spacy.yml --data demo-rasa.json --path projects
